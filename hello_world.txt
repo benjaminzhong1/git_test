@@ -1,1 +1,2 @@
-hello world 
+print('hello world')
+git commit vs code commit message test 
